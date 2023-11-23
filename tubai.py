@@ -1,7 +1,7 @@
 # print("destroy world with tubai")
 
-mystr = "debargha nandi is a good boy"
-print(len(mystr))
+# mystr = "debargha nandi is a good boy"
+# print(len(mystr))
 # print(mystr[0:14])
 # print(mystr[7])
 # print(mystr[0:8])
@@ -29,16 +29,16 @@ print(len(mystr))
 # print(mystr[-12:-9])
 # print(mystr[-12:-2])
 #
-# print("debargha \r nandi")
-# print("debargha \t nandi")
-# print("debargha \v nandi")
-# print("debargha\bnandi")
-# print("my name is debargha nandi" , end = " ,")
-# print("and my nickname is tubai")
-# print("my name is debargha nandi" , "and my nickname is tubai")
-# print("my name is debargha nandi\nand my nicknme is tubai")
-# print("debargha nandi\ riya nandi\ prabir kumar nandi")
-# print("debr\bargha")
+print("debargha \r nandi")
+print("debargha \t nandi")
+print("debargha \v nandi")
+print("debargha\bnandi")
+print("my name is debargha nandi" , end = " ,")
+print("and my nickname is tubai")
+print("my name is debargha nandi" , "and my nickname is tubai")
+print("my name is debargha nandi\nand my nicknme is tubai")
+print("debargha nandi\ riya nandi\ prabir kumar nandi")
+print("debr\bargha")
 #
 # mystr = "debargha nandi is a good boy"
 # print(mystr . endswith("boy"))

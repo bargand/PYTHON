@@ -9,4 +9,4 @@ def translate_to_sanskrit(text):
 english_text = "Hello, how are you?"
 sanskrit_translation = translate_to_sanskrit(english_text)
 print("English: ", english_text)
-print("Bengali: ", sanskrit_translation)
+print("English: ", sanskrit_translation)
