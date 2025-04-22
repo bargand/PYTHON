@@ -10,7 +10,7 @@
 # else:
 #     print("no")
 
-age = 2
+age = 3
 
 if (age <= 17):
     print("you can not drive")
